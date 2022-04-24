@@ -2,7 +2,7 @@
 ### Hello World.I'm Paiman Rasoli 👋
 <br />
 ##### MERN Developer
-<p>Lover of <span style="color : yellow;">JS</span> and <span style="color : blue;">TS</span> languages.</p> 
+<p>Lover of <span style="color:yellow;">JS</span> and <span style="color:blue;">TS</span> languages.</p> 
 #### Let's get in touch:
 <p> 📧paiman.rasoli2000@gmail.com </p>
 <p> 📱(+93)793-151-474 </p> 
