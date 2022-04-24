@@ -2,7 +2,7 @@
 ### Hello World.I'm Paiman Rasoli 👋
 
 #### MERN Developer
-Lover of JS and TS .
+Lover of <a href="javascript">JS</a> and TS .
 
 #### Let's get in touch:
 <p> 📧paiman.rasoli2000@gmail.com </p>
