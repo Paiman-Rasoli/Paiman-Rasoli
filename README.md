@@ -1,7 +1,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Paiman-Rasoli&show_icons=true&count_private=true)
 ### Hello World.I'm Paiman Rasoli 👋
 
-#### MERN Developer @ straight-forwareded!
+#### MERN & React Native Developer @ straight-forwareded!
 Lover of JS and TS. enjoying solving bugs and learning new things..<PR />   
 
 #### Let's get in touch:
