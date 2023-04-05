@@ -3,7 +3,7 @@
 <p>Visit my portfolio throug below link.👇</p>
 <a href="https://portfoli-rosy.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
 <div>
-  <h3> Languages & Stats </h3>
+  <h3> Tech Stack & Tools </h3>
   <div align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge">
   <img src="https://img.shields.io/badge/typescript-%23007acc.svg?logo=typescript&logoColor=white&style=for-the-badge">
