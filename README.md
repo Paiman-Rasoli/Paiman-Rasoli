@@ -28,5 +28,5 @@
   <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
   <img src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white" />
 </div>
-    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Paiman-Rasoli&count_private=true&hide=tex&langs_count=10&layout=compact" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Paiman-Rasoli&count_private=true&hide=tex&langs_count=10&layout=compact&include_all_commits=true" />
 </div>
