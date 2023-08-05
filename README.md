@@ -1,7 +1,7 @@
 <p>Hello World 👋, happy to see you here. This is Paiman Rasoli a Full-stack web developer.</p>
 <p>I enjoy learning new things and contributing to open-source projects.</p>
-<p>Visit my portfolio throug below link.👇</p>
-<a href="https://fanciful-palmier-0f18b2.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
+<p>Visit my portfolio through below link.👇</p>
+<a href="https://playful-dango-6302f8.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
 <div>
   <h3> Tech Stack & Tools </h3>
   <div align="center">
