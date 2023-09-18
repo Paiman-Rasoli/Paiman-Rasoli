@@ -1,4 +1,4 @@
-<p>Hello World 👋, happy to see you here. This is Paiman Rasoli a Full-stack web developer.</p>
+<p>Hello World 👋, happy to see you here. I'm Paiman Rasoli a Full-stack web developer.</p>
 <p>I enjoy learning new things and contributing to open-source projects.</p>
 <p>See my company Github account 👇</p>
 <a href="https://github.com/paiman-truetale" target="_blank"> Paiman Rasoli's Github on Taglet</a>
@@ -28,4 +28,8 @@
   <img src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white" />
 </div>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Paiman-Rasoli&count_private=true&hide=tex&langs_count=10&layout=compact&include_all_commits=true" />
+   <p style="width: 50%; text-align: justify;">
+     I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:paimanrasoli789@gmail.com">paimanrasoli789@gmail.com</a> or connect with me on <a href="linkedin.com/in/paiman-rasoli-b20a81213" target="_blank">LinkedIn</a>.
+   </p>
+  
 </div>
