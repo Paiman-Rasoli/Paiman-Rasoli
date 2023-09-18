@@ -27,9 +27,10 @@
   <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
   <img src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white" />
 </div>
+  <div style="margin-top:20px">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Paiman-Rasoli&count_private=true&hide=tex&langs_count=10&layout=compact&include_all_commits=true" />
    <p style="width: 50%; text-align: justify;">
      I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:paimanrasoli789@gmail.com">paimanrasoli789@gmail.com</a> or connect with me on <a href="linkedin.com/in/paiman-rasoli-b20a81213" target="_blank">LinkedIn</a>.
    </p>
-  
+  </div>
 </div>
