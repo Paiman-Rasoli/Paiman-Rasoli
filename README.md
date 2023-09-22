@@ -1,6 +1,6 @@
 <p>Hello World 👋, happy to see you here. I'm Paiman Rasoli a Full-stack web developer.</p>
 <p>I enjoy learning new things and contributing to open-source projects.</p>
-<p>See my company Github account 👇</p>
+<p>See my previous company Github account 👇</p>
 <a href="https://github.com/paiman-truetale" target="_blank"> Paiman Rasoli's Github on Taglet</a>
 <div>
   <h3> Tech Stack & Tools </h3>
